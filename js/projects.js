@@ -23,7 +23,7 @@
 		} else {
 			switch (this.id) {
 				case "yolo-cpp-api": {
-					return window.open("https://github.com/ethanlaj/yolo-cpp-api");
+					return window.open("https://github.com/Etown-CS/FairwayFinder");
 				}
 				case "couple-trivia": {
 					return window.open("https://youtu.be/99za1ogBe78");
