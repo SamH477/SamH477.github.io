@@ -23,28 +23,29 @@
 		} else {
 			switch (this.id) {
 				case "yolo-cpp-api": {
-					return window.open("https://github.com/Etown-CS/FairwayFinder");
+					return window.open("https://github.com/Etown-CS/FairwayFinder/wiki");
 				}
 				case "couple-trivia": {
-					return window.open("https://youtu.be/99za1ogBe78");
+					return window.open("https://pantry.etowndb.com/pantry/web_src/");
 				}
 				case "labshare": {
-					return window.open("https://labshare.xyz");
+					href = "https://github.com/SamH477/Personal-Study-Website";
+					break;
 				}
 				case "checkout-system": {
-					href = "/Projects/checkout-system/checkout-system.html";
+					href = "https://elizabethtown-my.sharepoint.com/:p:/g/personal/huhns_etown_edu/EdydIc99TKpDj7WYY8j8iR0BNGP3ULQrs3FVCZVX7uedoA?e=7vXqFJ";
 					break;
 				}
 				case "amazon-affiliate-bot": {
-					href = "/Projects/amazon-affiliate-bot/amazon-affiliate-bot.html";
+					href = "https://elizabethtown-my.sharepoint.com/:p:/g/personal/barbierik_etown_edu/EZpPncWUU_1LnvE6Xxrl_4ABqVeN_bUKmH9D2EQFcj4mmw?e=NybXl6";
 					break;
 				}
 				case "resell-bot": {
-					href = "/Projects/resell-bot/resell-bot.html";
+					href = "https://1drv.ms/p/c/e5d99bc65a9d6071/EVI46o8hoMJEiaZ-ODddo0MBuls4wuHK3v7i3HtUkKghyQ?e=JbG582";
 					break;
 				}
 				case "techops": {
-					href = "/Projects/techops/techops.html";
+					href = "https://1drv.ms/p/c/e5d99bc65a9d6071/Eby3v55G-ThOq4nmLXKhHmcBk-1BHWWNmQ5WPjm6hbZvxA?e=XyRIPt";
 					break;
 				}
 			}

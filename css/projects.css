@@ -6,7 +6,7 @@ h1 {
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
-	column-gap: 80px;
+	column-gap: 50px;
 	row-gap: 40px;
 }
 
@@ -22,7 +22,7 @@ h1 {
 
 	padding: 20px 20px 0 20px;
 	min-width: 300px;
-	width: 300px;
+	width: 320px;
 	min-height: 230px;
 	height: 230px;
 
